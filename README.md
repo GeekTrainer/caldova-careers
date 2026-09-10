@@ -52,3 +52,25 @@ npm run dev
 - `npm run lint` — ESLint
 - `npm run typecheck` — `astro check`
 - `npm run db:generate` / `db:migrate` / `db:setup` — Drizzle schema/migration tasks
+
+## Using this template
+
+This repository is a GitHub template. When you create a new repository from it, a one-time **Bootstrap issues** workflow (`.github/workflows/bootstrap-issues.yml`) runs automatically on the first push to `main` and opens a set of starter issues describing suggested first features. Each issue is defined by a Markdown file in `.github/bootstrap-issues/` — the first heading becomes the issue title and the remaining content becomes the body — so you can edit, add, or remove files there to control which issues are created.
+
+The workflow only runs on repositories created from the template (the `if: ${{ !github.event.repository.is_template }}` guard skips the template itself), and after creating the issues it removes itself and the `.github/bootstrap-issues/` folder in a cleanup commit so it never runs again.
+
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for how to set up your environment, run the checks, and submit a pull request. This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Support
+
+Need help? See [SUPPORT.md](SUPPORT.md) for how to file issues and get assistance.
+
+## Security
+
+To report a security vulnerability, please follow the process in [SECURITY.md](SECURITY.md) — do not open a public issue.
+
+## License
+
+Licensed under the [MIT License](LICENSE).
