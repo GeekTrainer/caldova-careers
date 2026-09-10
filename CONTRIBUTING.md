@@ -1,9 +1,5 @@
 # Contributing to Caldova Careers
 
-[fork]: https://github.com/github-samples/caldova-careers/fork
-[pr]: https://github.com/github-samples/caldova-careers/compare
-[code-of-conduct]: CODE_OF_CONDUCT.md
-
 Thank you for your interest in contributing to Caldova Careers! Your help is essential for keeping this GitHub Copilot CLI workshop sample small, realistic, and easy to learn from.
 
 Contributions to this project are [released](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) to the public under the [project's open source license](LICENSE).
@@ -130,3 +126,7 @@ Found a bug or have a feature request? Please [open an issue](https://github.com
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [Writing Good Commit Messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [GitHub Help](https://help.github.com)
+
+[fork]: https://github.com/github-samples/caldova-careers/fork
+[pr]: https://github.com/github-samples/caldova-careers/compare
+[code-of-conduct]: CODE_OF_CONDUCT.md
