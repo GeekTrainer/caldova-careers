@@ -7,6 +7,9 @@ This is the sample application for the **GitHub Copilot CLI** workshop. It's a d
 > [!NOTE]
 > Caldova is a fictional company created for demonstration and training purposes. The roles, locations, and applications in this app are not real.
 
+> [!WARNING]
+> This project is a teaching sample for a GitHub Copilot CLI workshop. It is provided as-is for learning and demonstration purposes and is not intended, hardened, or supported for production use.
+
 ## Tech stack
 
 - **[Astro](https://astro.build/)** — static output by default, with a single on-demand route for the apply endpoint (via the `@astrojs/node` adapter)
